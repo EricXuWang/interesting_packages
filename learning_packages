@@ -1,0 +1,24 @@
+# librosa
+# it is a python package for music and audio analysis
+
+# numba
+# Numba translates Python functions to optimized machine code at runtime using the industry-standard LLVM compiler library. You don't need to replace the Python interpreter, run a separate compilation step, or even have a C/C++ compiler installed. Just apply one of the Numba decorators to your Python function, and Numba does the rest.
+
+# SoX is a popular command line tool for sound processing.
+
+# gurobi is the fastest and most powerful mathematical programming solver available for your LP, QP and MIP (MILP, MIQP, and MIQCP) problems
+
+# h5py
+t lets you store huge amounts of numerical data, and easily manipulate that data from NumPy. For example, you can slice into multi-terabyte datasets stored on disk, as if they were real NumPy arrays. Thousands of datasets can be stored in a single file, categorized and tagged however you want.
+
+# gdown enables us to download a large file from google drive
+
+# sentencepiece
+# Python wrapper for SentencePiece. This API will offer the encoding, decoding and training of Sentencepiece.
+
+# grpcio
+# gRPC is a modern open source high performance Remote Procedure Call (RPC) framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.
+
+
+# opacus
+# it enables us to train pytorch models with differential privacy
