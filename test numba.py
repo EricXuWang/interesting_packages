@@ -34,3 +34,4 @@ start = time.time()
 go_fast_1(x)
 end = time.time()
 print("Elapsed (without numba) = %s" % (end - start))
+
